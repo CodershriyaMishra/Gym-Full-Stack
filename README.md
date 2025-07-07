@@ -1,4 +1,8 @@
 # 💪 GymVault – MERN Stack Gym Website
+## 🔗 Live Demo
+
+Check out the live project here:  
+👉 [https://gym-full-stack.vercel.app](https://gym-full-stack.vercel.app)
 
 **GymVault** is a fitness-focused web application built to modernize gym interactions. The project enables users to engage with dynamic content and directly contact the gym through a secure, email-integrated contact form.
 
