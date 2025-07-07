@@ -1,4 +1,4 @@
-# 💪 GymVault – MERN Stack Gym Website (Backend Focus)
+# 💪 GymVault – MERN Stack Gym Website
 
 **GymVault** is a fitness-focused web application built to modernize gym interactions. The project enables users to engage with dynamic content and directly contact the gym through a secure, email-integrated contact form.
 
