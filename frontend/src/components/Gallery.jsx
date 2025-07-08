@@ -1,6 +1,6 @@
 import React from 'react';
 const Gallery = ()=>{
-  const gallery = ['./img1.webp','./img2.jpg','./img3.jpg','./img4.jpg','./img7.jpg','./img8.jpg','./img5.jpg','./img6.jpg'];
+  const gallery = ['./imgimg1.jpg','./imgimg2.jpg','./img3.jpg','./imgimg4.jpg','./imgimg7.jpg','./imgimg8.jpg','./imgimg5.jpg','./imgimg6.jpg'];
 
   return (
     <section className="gallery">

@@ -8,7 +8,7 @@ const WorkoutSessions = () => {
         <p>
           Discover our most dynamic, results-driven workout sessions tailored to ignite fat loss, build muscle, and push your limits.
         </p>
-        <img src="/img5.jpg" alt="workout" />
+        <img src="/imgimg5.jpg" alt="workout" />
       </div>
 
       <div className="wrapper">
